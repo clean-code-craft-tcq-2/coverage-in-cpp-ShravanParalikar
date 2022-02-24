@@ -1,6 +1,6 @@
 #pragma once
 
-#include "infoTypes.h"
+#include "Types.h"
 
 bool sendAlertToController(BreachType breachType);
 bool sendAlertToEmail(BreachType breachType);
